@@ -1,4 +1,4 @@
-### DC-Project-Risk-and-Return-The-Sharpe-Ratio
+### DataCamp Project- Risk and Return With Sharpe Ratio
 
 Enter William Sharpe. He introduced the reward-to-variability ratio in 1966 that soon came to be called the Sharpe Ratio. It compares the expected returns for two investment opportunities and calculates the additional return per unit of risk an investor could obtain by choosing one over the other. In particular, it looks at the difference in returns for two investments and compares the average difference to the standard deviation (as a measure of risk) of this difference. A higher Sharpe ratio means that the reward will be higher for a given amount of risk. It is common to compare a specific opportunity against a benchmark that represents an entire category of investments.
 
